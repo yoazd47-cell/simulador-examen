@@ -1,1 +1,1 @@
-# simulador-examen-sistemasCognitivos
+# simulador-examen
