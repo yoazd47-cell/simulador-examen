@@ -1,0 +1,327 @@
+{
+  "id": "micro_test_1",
+  "titulo": "Tema 1: Introducción al diseño y gestión de proyectos",
+  "preguntas": [
+    {
+      "id": "1_1",
+      "texto": "Dentro de los objetivos del tema 1, se encuentra comprender que los proyectos y operaciones de una organización son lo mismo:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "1_2",
+      "texto": "Los proyectos tienen un principio y un final y están dirigidos a un objetivo claro, por lo que son eventos específicos y no rutinarios:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "1_3",
+      "texto": "El diseño y la planificación de un proyecto tecnológico es un arte basado en habilidades propias del gestor de dicho proyecto:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "1_4",
+      "texto": "En el desarrollo de proyectos tecnológicos, se debe tomar conciencia acerca de la necesidad de:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Pasar del concepto de ingeniería al de arte.",
+          "correcta": false
+        },
+        {
+          "texto": "Pasar del concepto de arte al de ingeniería.",
+          "correcta": true
+        },
+        {
+          "texto": "Excluir el concepto de arte.",
+          "correcta": false
+        },
+        {
+          "texto": "Excluir el concepto de ingeniería.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "1_5",
+      "texto": "Para un adecuado diseño y planificación de proyectos, se deben conocer:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Buenos hábitos de planificación.",
+          "correcta": false
+        },
+        {
+          "texto": "Principios de diseño.",
+          "correcta": false
+        },
+        {
+          "texto": "Métodos y herramientas para verificar la calidad de los resultados.",
+          "correcta": false
+        },
+        {
+          "texto": "Todas las respuestas anteriores son correctas.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "1_6",
+      "texto": "El director de proyectos debe tener los conocimientos adecuados para:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Conducir con éxito un equipo multidisciplinar.",
+          "correcta": false
+        },
+        {
+          "texto": "Llevar al equipo a la consecución de objetivos y metas.",
+          "correcta": false
+        },
+        {
+          "texto": "Alcanzar los objetivos sin tener en cuenta las limitaciones de presupuesto y tiempo.",
+          "correcta": false
+        },
+        {
+          "texto": "A y B son correctas.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "1_7",
+      "texto": "Un sistema informático defectuoso perjudica:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Al usuario.",
+          "correcta": false
+        },
+        {
+          "texto": "Al programador.",
+          "correcta": false
+        },
+        {
+          "texto": "A la empresa que lo lanza.",
+          "correcta": false
+        },
+        {
+          "texto": "Todas las respuestas anteriores son correctas.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "1_8",
+      "texto": "Los errores en proyectos altamente tecnológicos:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "No tienen impacto en otras disciplinas.",
+          "correcta": false
+        },
+        {
+          "texto": "Su depuración apenas interfiere en el desarrollo del proyecto.",
+          "correcta": false
+        },
+        {
+          "texto": "Son una constante y su depuración causa problemas en el desarrollo del proyecto.",
+          "correcta": true
+        },
+        {
+          "texto": "A y C son correctas.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "1_9",
+      "texto": "Pasar del arte a la ingeniería implica:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Maximizar los errores.",
+          "correcta": false
+        },
+        {
+          "texto": "Evitar los errores.",
+          "correcta": false
+        },
+        {
+          "texto": "Minimizar los errores.",
+          "correcta": true
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "1_10",
+      "texto": "Las dificultades para finalizar un proyecto con éxito se centran en:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Riesgos e incertidumbre asociados al componente tecnológico.",
+          "correcta": false
+        },
+        {
+          "texto": "Factores internos de la organización.",
+          "correcta": false
+        },
+        {
+          "texto": "Territorio conocido en el ámbito del proyecto.",
+          "correcta": false
+        },
+        {
+          "texto": "A y B son correctas.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "1_11",
+      "texto": "La triple restricción de la gestión de proyectos es el triángulo formado por:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Tiempo, coste y recursos.",
+          "correcta": false
+        },
+        {
+          "texto": "Tiempo, alcance y coste.",
+          "correcta": true
+        },
+        {
+          "texto": "Alcance, calidad y recursos.",
+          "correcta": false
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "1_12",
+      "texto": "Los conflictos entre los directores funcionales de la organización y el director de proyectos:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "No existen como tal.",
+          "correcta": false
+        },
+        {
+          "texto": "Se debe a que la dirección de proyectos no se reconoce como tal.",
+          "correcta": true
+        },
+        {
+          "texto": "Surgen en organizaciones inmaduras.",
+          "correcta": false
+        },
+        {
+          "texto": "Se resuelven con la resistencia al cambio cultural.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "1_13",
+      "texto": "La dirección de proyectos (diferente a la alta dirección) se encuentra en el nivel de:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Planificación estratégica.",
+          "correcta": false
+        },
+        {
+          "texto": "Gestión de proyectos.",
+          "correcta": true
+        },
+        {
+          "texto": "Control de calidad.",
+          "correcta": false
+        },
+        {
+          "texto": "Todas las anteriores son correctas.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "1_14",
+      "texto": "La planificación estratégica tiene como alcance:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Horizonte lejano y metas globales.",
+          "correcta": true
+        },
+        {
+          "texto": "Horizonte lejano y metas parciales.",
+          "correcta": false
+        },
+        {
+          "texto": "Plazo medio y metas parciales.",
+          "correcta": false
+        },
+        {
+          "texto": "Futuro inmediato con tareas concretas.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "1_15",
+      "texto": "El conjunto de actuaciones dirigidas a controlar los procedimientos con el fin de corregir procesos defectuosos se denomina:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Planificación estratégica.",
+          "correcta": false
+        },
+        {
+          "texto": "Gestión de proyectos.",
+          "correcta": false
+        },
+        {
+          "texto": "Control de calidad.",
+          "correcta": true
+        },
+        {
+          "texto": "Análisis de riesgos.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}

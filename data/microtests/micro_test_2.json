@@ -1,0 +1,303 @@
+{
+  "id": "micro_test_2",
+  "titulo": "Tema 2: Metodologías y estándares de diseño y gestión de proyectos",
+  "preguntas": [
+    {
+      "id": "2_1",
+      "texto": "Es necesario comprender la necesidad de adaptar cualquier metodología que se escoja a la realidad del proyecto que se va a dirigir:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_2",
+      "texto": "El PMBOK® del Project Management Institute recoge un conjunto de malas prácticas de planificación de proyectos:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "2_3",
+      "texto": "El equipo de dirección del proyecto es el responsable de determinar lo que es apropiado para cada proyecto en concreto:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_4",
+      "texto": "La Guía de los Fundamentos para la Dirección de Proyectos es conocida como:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "PMI.",
+          "correcta": false
+        },
+        {
+          "texto": "PMBOK®.",
+          "correcta": true
+        },
+        {
+          "texto": "PMP.",
+          "correcta": false
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_5",
+      "texto": "La Guía de los Fundamentos para la Dirección de Proyectos:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "No es una metodología que deba seguirse al pie de la letra.",
+          "correcta": false
+        },
+        {
+          "texto": "Es un compendio de buenas prácticas.",
+          "correcta": false
+        },
+        {
+          "texto": "Supone una guía de lo que normalmente un gerente de proyectos debe llevar a cabo.",
+          "correcta": false
+        },
+        {
+          "texto": "Todas las respuestas anteriores son correctas.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "2_6",
+      "texto": "La segunda edición de la Guía de los Fundamentos para la Dirección de Proyectos se convirtió en estándar:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "ANSI.",
+          "correcta": true
+        },
+        {
+          "texto": "ISO.",
+          "correcta": false
+        },
+        {
+          "texto": "NMX.",
+          "correcta": false
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_7",
+      "texto": "La sexta edición del PMBOK® estaba basada en:",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Dominios de desempeño.",
+          "correcta": false
+        },
+        {
+          "texto": "Áreas de conocimiento.",
+          "correcta": true
+        },
+        {
+          "texto": "Procesos de dirección de proyectos.",
+          "correcta": true
+        },
+        {
+          "texto": "Principios de dirección de proyectos.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_8",
+      "texto": "La séptima versión, de 2021, incorpora una versión más global hacia la entrega de valor, basando la gestión de los procesos en:",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Dominios de desempeño.",
+          "correcta": true
+        },
+        {
+          "texto": "Actividades aisladas.",
+          "correcta": false
+        },
+        {
+          "texto": "Áreas de conocimiento.",
+          "correcta": false
+        },
+        {
+          "texto": "Visión de sistema para la entrega de valor.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "2_9",
+      "texto": "En la séptima edición del PMBOK®, el estándar para la dirección de proyectos ha evolucionado para basarse en:",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Principios.",
+          "correcta": true
+        },
+        {
+          "texto": "Enfoque predictivo.",
+          "correcta": false
+        },
+        {
+          "texto": "Enfoque adaptativo.",
+          "correcta": true
+        },
+        {
+          "texto": "Enfoque clásico.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_10",
+      "texto": "Los portafolios, programas, proyectos, productos y operaciones pueden formar parte del sistema de entrega de valor de una organización:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_11",
+      "texto": "Conservar beneficios de operaciones y proyectos anteriores no contribuye a crear valor:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "2_12",
+      "texto": "Dentro de los sistemas de entrega de valor, solo debe considerarse el entorno interno del proyecto:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "2_13",
+      "texto": "La descomposición del proyecto en fases o etapas permite:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Mejorar el control en la gestión.",
+          "correcta": false
+        },
+        {
+          "texto": "Enlazar con las operaciones habituales de la organización.",
+          "correcta": false
+        },
+        {
+          "texto": "Realizar el control de calidad tras las etapas.",
+          "correcta": false
+        },
+        {
+          "texto": "Todas las respuestas anteriores son correctas.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "2_14",
+      "texto": "Según el PMBOK®, la gestión de proyectos debe realizarse:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Solo durante el estudio inicial del proyecto.",
+          "correcta": false
+        },
+        {
+          "texto": "Para cada fase del ciclo de vida.",
+          "correcta": true
+        },
+        {
+          "texto": "En la fase de mantenimiento.",
+          "correcta": false
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_15",
+      "texto": "El ciclo de vida que se realiza de manera tradicional, sin iteraciones, se denomina:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Ciclo de vida en cascada.",
+          "correcta": true
+        },
+        {
+          "texto": "Ciclo de vida en espiral.",
+          "correcta": false
+        },
+        {
+          "texto": "Entrega evolutiva.",
+          "correcta": false
+        },
+        {
+          "texto": "Prototipado incremental.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}

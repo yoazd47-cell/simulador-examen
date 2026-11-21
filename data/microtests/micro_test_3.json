@@ -1,0 +1,279 @@
+{
+  "id": "micro_test_3",
+  "titulo": "Tema 3: Diseño del proyecto",
+  "preguntas": [
+    {
+      "id": "3_1",
+      "texto": "Es importante comprender la importancia de la fase de diseño en el éxito de cualquier proyecto, especialmente si la componente tecnológica, innovadora o de riesgo es baja:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "3_2",
+      "texto": "La preparación de un proyecto conlleva dos actividades: el diseño y la planificación.",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "3_3",
+      "texto": "El éxito de un proyecto, con independencia de su envergadura, pasa siempre por una buena planificación:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "3_4",
+      "texto": "El origen de un proyecto:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Suele ser difuso.",
+          "correcta": false
+        },
+        {
+          "texto": "Siempre está fuera del ámbito de control del proyecto.",
+          "correcta": false
+        },
+        {
+          "texto": "Siempre está dentro del ámbito de control del proyecto.",
+          "correcta": false
+        },
+        {
+          "texto": "A y B son correctas.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "3_5",
+      "texto": "La necesidad detectada se puede percibir como:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Un problema.",
+          "correcta": false
+        },
+        {
+          "texto": "Una oportunidad.",
+          "correcta": false
+        },
+        {
+          "texto": "Un problema o una oportunidad.",
+          "correcta": true
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "3_6",
+      "texto": "Respecto a la definición del problema:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Debe ser revisada por todos los implicados.",
+          "correcta": true
+        },
+        {
+          "texto": "Suele ocupar mucho tiempo.",
+          "correcta": false
+        },
+        {
+          "texto": "No es especialmente relevante.",
+          "correcta": false
+        },
+        {
+          "texto": "El proyecto no se basa en esta definición.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "3_7",
+      "texto": "Como premisa, deben buscarse de antemano las soluciones a un problema:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "3_8",
+      "texto": "También es peligrosa la situación en la que los únicos interesados en el problema y su solución son los implicados en el proyecto:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "3_9",
+      "texto": "Entre los posibles errores al diseñar un proyecto, está hacer lo mismo que la última vez:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "3_10",
+      "texto": "Debemos preguntarnos cuál es el fin del proyecto a corto y a largo plazo:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "3_11",
+      "texto": "No es necesario preguntarnos sobre las áreas o campos de intervención del proyecto:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "3_12",
+      "texto": "La pregunta «¿Qué sucede una vez que concluye formalmente el periodo y los fondos del proyecto?» está relacionada con la continuidad o sustentabilidad del proyecto:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "3_13",
+      "texto": "El arranque del desarrollo del proyecto se llevará a cabo en:",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "La reunión de seguimiento.",
+          "correcta": false
+        },
+        {
+          "texto": "La reunión kick-off.",
+          "correcta": true
+        },
+        {
+          "texto": "La reunión de lanzamiento.",
+          "correcta": true
+        },
+        {
+          "texto": "La reunión run-off.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "3_14",
+      "texto": "A esta reunión están convocados:",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Usuarios clave.",
+          "correcta": true
+        },
+        {
+          "texto": "Equipo del proyecto.",
+          "correcta": true
+        },
+        {
+          "texto": "Responsables del equipo y proveedores.",
+          "correcta": true
+        },
+        {
+          "texto": "Principales competidores.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "3_15",
+      "texto": "Es responsabilidad del gestor del proyecto:",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Gestionar la logística.",
+          "correcta": true
+        },
+        {
+          "texto": "Ausentarse de la reunión.",
+          "correcta": false
+        },
+        {
+          "texto": "Solicitar a la Administración la elaboración del acta.",
+          "correcta": false
+        },
+        {
+          "texto": "Desarrollar la presentación soporte.",
+          "correcta": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "id": "micro_test_5",
+  "titulo": "Tema 5: Ejecución, control y cierre del proyecto",
+  "preguntas": [
+    {
+      "id": "5_1",
+      "texto": "Los problemas no se consideran compañeros habituales en los proyectos y, por lo tanto, no deben gestionarse:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "5_2",
+      "texto": "Las expectativas de los interesados no son un aspecto que deba gestionarse:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "5_3",
+      "texto": "Es necesario comprender la importancia de la fase de finalización del proyecto:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "5_4",
+      "texto": "La metodología Kanban se basa en los principios Lean de:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Calidad garantizada.",
+          "correcta": false
+        },
+        {
+          "texto": "Reducción del desperdicio.",
+          "correcta": false
+        },
+        {
+          "texto": "Mejora continua.",
+          "correcta": false
+        },
+        {
+          "texto": "Todas las anteriores son correctas.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "5_5",
+      "texto": "La métrica clave en la metodología Kanban es:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Velocidad.",
+          "correcta": false
+        },
+        {
+          "texto": "Rendimiento.",
+          "correcta": false
+        },
+        {
+          "texto": "Tiempo del ciclo.",
+          "correcta": true
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "5_6",
+      "texto": "La metodología Scrum se basa en sprints de longitud fija periódicos, mientras que el Kanban se basa en:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Un flujo continuo.",
+          "correcta": true
+        },
+        {
+          "texto": "Un flujo periódico.",
+          "correcta": false
+        },
+        {
+          "texto": "Un flujo discontinuo.",
+          "correcta": false
+        },
+        {
+          "texto": "Ambas metodologías son idénticas.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "5_7",
+      "texto": "Se debe ser ambicioso en cuanto al contenido y los temas a tratar en las reuniones:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "5_8",
+      "texto": "Es importante «que estén todos los que tienen que estar», incluyendo a los patrocinadores:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "5_9",
+      "texto": "Debemos asegurarnos de que quedan claros los objetivos, metas y el producto final que se espera obtener:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "5_10",
+      "texto": "¿Qué es la calidad en proyectos tecnológicos?:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Un proyecto perfecto.",
+          "correcta": false
+        },
+        {
+          "texto": "Una decisión.",
+          "correcta": false
+        },
+        {
+          "texto": "Un objetivo.",
+          "correcta": false
+        },
+        {
+          "texto": "B y C son correctas.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "5_11",
+      "texto": "En general, las actividades de aseguramiento de la calidad:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Se definen al final del proyecto.",
+          "correcta": false
+        },
+        {
+          "texto": "Se definen durante la realización del proyecto.",
+          "correcta": false
+        },
+        {
+          "texto": "Se definen al principio del proyecto.",
+          "correcta": true
+        },
+        {
+          "texto": "Todas las anteriores son correctas.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "5_12",
+      "texto": "La gestión de la calidad se compone de:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Planificación y mejora.",
+          "correcta": false
+        },
+        {
+          "texto": "Planificación y control.",
+          "correcta": false
+        },
+        {
+          "texto": "Aseguramiento, control y mejora.",
+          "correcta": false
+        },
+        {
+          "texto": "Planificación, aseguramiento, control y mejora.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "5_13",
+      "texto": "Un proyecto puede finalizar por las siguientes razones:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Proyecto completado.",
+          "correcta": false
+        },
+        {
+          "texto": "Proyecto cancelado.",
+          "correcta": false
+        },
+        {
+          "texto": "Proyecto colapsado.",
+          "correcta": false
+        },
+        {
+          "texto": "Todas las anteriores son correctas.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "5_14",
+      "texto": "Cuando el proyecto sufre una «muerte lenta» al reducir el apoyo y presupuesto para el proyecto, se dice que el proyecto finaliza por:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Reemplazo.",
+          "correcta": false
+        },
+        {
+          "texto": "Deterioro.",
+          "correcta": true
+        },
+        {
+          "texto": "Absorción.",
+          "correcta": false
+        },
+        {
+          "texto": "Cancelación.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "5_15",
+      "texto": "¿Cuál de las siguientes no es una premisa básica de la finalización del proyecto?:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Evaluar y dejar constancia de las lecciones aprendidas.",
+          "correcta": true
+        },
+        {
+          "texto": "Haber cumplido obligaciones contractuales.",
+          "correcta": false
+        },
+        {
+          "texto": "Conseguir la aceptación del producto entregado.",
+          "correcta": false
+        },
+        {
+          "texto": "Haber culminado los trámites administrativos previstos.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "id": "micro_test_6",
+  "titulo": "Tema 6: El liderazgo en proyectos tecnológicos",
+  "preguntas": [
+    {
+      "id": "6_1",
+      "texto": "No existen distintos tipos de directores o autoridades en la organización de proyectos:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "6_2",
+      "texto": "Se pueden aplicar estrategias para mejorar el rendimiento del equipo de proyecto:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "6_3",
+      "texto": "La capacidad de liderazgo es la más importante para gestionar con éxito recursos y equipos de personas:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "6_4",
+      "texto": "Existen dos tipos de autoridad:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "La formal y la legal.",
+          "correcta": false
+        },
+        {
+          "texto": "La informal y la real.",
+          "correcta": false
+        },
+        {
+          "texto": "La formal y la informal.",
+          "correcta": true
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "6_5",
+      "texto": "De las diferentes capacidades que debe reunir un director de proyecto, ¿cuál es la más difícil de ejercer?",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "La capacidad tecnológica.",
+          "correcta": false
+        },
+        {
+          "texto": "La capacidad de gestión empresarial.",
+          "correcta": false
+        },
+        {
+          "texto": "La capacidad de comunicación.",
+          "correcta": false
+        },
+        {
+          "texto": "La capacidad de liderazgo.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "6_6",
+      "texto": "¿Cuál de las siguientes afirmaciones no es un error de los directores de proyecto?",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "No comprender con claridad los objetivos.",
+          "correcta": false
+        },
+        {
+          "texto": "Conseguir la aceptación del calendario del proyecto.",
+          "correcta": true
+        },
+        {
+          "texto": "No ejecutar el plan del proyecto.",
+          "correcta": false
+        },
+        {
+          "texto": "La mala gestión y definición de los requisitos.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "6_7",
+      "texto": "El hecho de que los miembros del equipo estén ubicados en la misma zona, facilita la resolución de problemas:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "6_8",
+      "texto": "La responsabilidad profesional requiere:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Ser deshonesto.",
+          "correcta": false
+        },
+        {
+          "texto": "Ser asertivo.",
+          "correcta": true
+        },
+        {
+          "texto": "Ser parcial.",
+          "correcta": false
+        },
+        {
+          "texto": "No equilibrar intereses de los stakeholders.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "6_9",
+      "texto": "El tratamiento apropiado de personas y recursos corresponde al valor de:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Responsabilidad.",
+          "correcta": false
+        },
+        {
+          "texto": "Respeto.",
+          "correcta": true
+        },
+        {
+          "texto": "Imparcialidad.",
+          "correcta": false
+        },
+        {
+          "texto": "Honestidad.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "6_10",
+      "texto": "El valor de la honestidad se refiere a:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Entender la verdad y tomar decisiones basadas en la realidad.",
+          "correcta": true
+        },
+        {
+          "texto": "Objetividad y decisiones imparciales y justas.",
+          "correcta": false
+        },
+        {
+          "texto": "Tratamiento apropiado de personas y recursos.",
+          "correcta": false
+        },
+        {
+          "texto": "Responsabilidad sobre decisiones y acciones.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}

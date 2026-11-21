@@ -1,0 +1,303 @@
+{
+  "id": "micro_test_4",
+  "titulo": "Tema 4: Planificación del proyecto tecnológico",
+  "preguntas": [
+    {
+      "id": "4_1",
+      "texto": "El proceso de planificación parte de un plan de trabajo previamente establecido:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_2",
+      "texto": "El plan o programación es la herramienta que sirve para que los componentes del equipo de trabajo sepan qué hay que hacer en cada momento, qué resultados se esperan y cuándo:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_3",
+      "texto": "El Plan de gestión del proyecto recoge todos los elementos necesarios para llevar a cabo el seguimiento y control durante la fase de ejecución o desarrollo:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_4",
+      "texto": "El documento de requisitos de usuario:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Se obtiene a partir de la definición de proyecto.",
+          "correcta": false
+        },
+        {
+          "texto": "Recoge especificaciones proporcionadas por el gestor del proyecto.",
+          "correcta": false
+        },
+        {
+          "texto": "Recoge las especificaciones de los productos que se quieren obtener.",
+          "correcta": false
+        },
+        {
+          "texto": "A y C son correctas.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_5",
+      "texto": "Las metodologías de planificación, estándares, etc.:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Son impuestas por el cliente.",
+          "correcta": false
+        },
+        {
+          "texto": "Son impuestas por la organización desarrolladora.",
+          "correcta": false
+        },
+        {
+          "texto": "Pueden ser impuestas por el cliente o por la entidad desarrolladora.",
+          "correcta": true
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_6",
+      "texto": "Las restricciones:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Pueden ser temporales y de recursos.",
+          "correcta": true
+        },
+        {
+          "texto": "Son funcionales.",
+          "correcta": false
+        },
+        {
+          "texto": "No son determinantes para el plan de trabajo.",
+          "correcta": false
+        },
+        {
+          "texto": "Vienen impuestas exclusivamente desde dentro del ámbito del proyecto.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_7",
+      "texto": "Estructurar el proyecto en tareas implica:",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Realizar un análisis ascendente.",
+          "correcta": false
+        },
+        {
+          "texto": "Realizar un análisis descendente.",
+          "correcta": true
+        },
+        {
+          "texto": "Desglosar el trabajo mediante la EDT.",
+          "correcta": true
+        },
+        {
+          "texto": "Establecer el diagrama de Gantt.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_8",
+      "texto": "Las dependencias entre actividades pueden ser:",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Fin - inicio.",
+          "correcta": true
+        },
+        {
+          "texto": "Inicio - fin.",
+          "correcta": true
+        },
+        {
+          "texto": "Medio - fin.",
+          "correcta": false
+        },
+        {
+          "texto": "Las actividades no tienen interdependencias.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_9",
+      "texto": "Dos técnicas de análisis de redes son:",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "PERT.",
+          "correcta": true
+        },
+        {
+          "texto": "Gantt.",
+          "correcta": false
+        },
+        {
+          "texto": "Método binario.",
+          "correcta": false
+        },
+        {
+          "texto": "CPM.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_10",
+      "texto": "Los procedimientos de administración y control del proyecto son establecidos por el gestor del proyecto y aprobados por el Comité de Dirección:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_11",
+      "texto": "Entre los procedimientos se incluye el de control del avance del proyecto, que consiste en los requisitos necesarios para revisar y aprobar formalmente un producto.",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": false
+        },
+        {
+          "texto": "Falso.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_12",
+      "texto": "En la gestión de las reuniones se debe describir la forma de convocarlas, plazos, formatos, contenido de la agenda y el formato de acta:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero.",
+          "correcta": true
+        },
+        {
+          "texto": "Falso.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_13",
+      "texto": "Todas las actividades de gestión de un proyecto deben estar documentadas en el:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Plan de gestión del proyecto.",
+          "correcta": true
+        },
+        {
+          "texto": "Plan de seguimiento del proyecto.",
+          "correcta": false
+        },
+        {
+          "texto": "Plan de riesgos del proyecto.",
+          "correcta": false
+        },
+        {
+          "texto": "Programa de medidas del proyecto.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_14",
+      "texto": "El PGP contiene:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Una definición de los procesos de gestión.",
+          "correcta": false
+        },
+        {
+          "texto": "Métodos, herramientas y tecnologías de gestión.",
+          "correcta": false
+        },
+        {
+          "texto": "Estructura de desglose del trabajo (EDT).",
+          "correcta": false
+        },
+        {
+          "texto": "Todas las respuestas anteriores son correctas.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_15",
+      "texto": "El PGP debe ser elaborado por:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "El responsable de calidad.",
+          "correcta": false
+        },
+        {
+          "texto": "El gestor del proyecto.",
+          "correcta": true
+        },
+        {
+          "texto": "El coordinador técnico.",
+          "correcta": false
+        },
+        {
+          "texto": "El asesor jurídico.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}
