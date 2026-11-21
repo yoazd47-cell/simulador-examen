@@ -1,0 +1,188 @@
+{
+  "id": "micro_test_7",
+  "titulo": "Micro test 7",
+  "preguntas": [
+    {
+      "id": "7_1",
+      "texto": "Las redes neuronales recurrentes tienen un estado interno llamado hidden state que funciona como una memoria:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": true
+        },
+        {
+          "texto": "Falso",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "7_2",
+      "texto": "Tanto el input como el output de las redes neuronales recurrentes son secuencias de texto o numéricas:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": true
+        },
+        {
+          "texto": "Falso",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "7_3",
+      "texto": "Las LSTM son una versión mejorada de las RNN debido a los problemas que estas tienen durante su entrenamiento:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": true
+        },
+        {
+          "texto": "Falso",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "7_4",
+      "texto": "En un problema de traducción automática:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Tenemos una secuencia de entrada y una única etiqueta o clase discreta de salida.",
+          "correcta": false
+        },
+        {
+          "texto": "Procesamos las palabras de forma independiente ignorando su orden de aparición.",
+          "correcta": false
+        },
+        {
+          "texto": "Tenemos una secuencia de entrada y producimos una secuencia de salida.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "7_5",
+      "texto": "En una vanilla RNN, los parámetros a aprender en la red son:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Únicamente la matriz W xh asociada al input.",
+          "correcta": false
+        },
+        {
+          "texto": "Las matrices W hh, W xh y W hy.",
+          "correcta": true
+        },
+        {
+          "texto": "Solo los tensores correspondientes a las compuertas de olvido (forget gates).",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "7_6",
+      "texto": "El vector de hidden state ht:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Es el resultado final que se presenta directamente al usuario sin pasar por más transformaciones.",
+          "correcta": false
+        },
+        {
+          "texto": "Es un vector constante y determinista que no se actualiza durante la secuencia temporal.",
+          "correcta": false
+        },
+        {
+          "texto": "Es una representación interna en forma de vector que codifica los estados por los que la red ha pasado y las inputs que ha ido viendo en el tiempo.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "7_7",
+      "texto": "¿Qué ventajas puede tener utilizar word vectors en vez de representaciones one-hot como entrada en una red recurrente? (Marca todas las respuestas correctas):",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Si el vocabulario es muy grande, una representación discreta como la one-hot da lugar a vectores de entrada muy grandes, mientras que una densa como word vectors permite un vector compacto.",
+          "correcta": true
+        },
+        {
+          "texto": "Las representaciones one-hot consumen menos memoria si el vocabulario supera los 100 mil elementos.",
+          "correcta": false
+        },
+        {
+          "texto": "Los word vectors anulan la necesidad de entrenar los pesos internos de la red.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "7_8",
+      "texto": "Gradient clipping:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Controla la magnitud del gradiente durante backpropagation. Si este se hace muy grande, se reduce su magnitud para evitar exploding gradients.",
+          "correcta": true
+        },
+        {
+          "texto": "Multiplica los gradientes cercanos a cero por un escalar gigante para solucionar el vanishing gradient problem.",
+          "correcta": false
+        },
+        {
+          "texto": "Elimina los gradientes de la primera capa para congelar sus pesos permanentemente.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "7_9",
+      "texto": "La arquitectura LSTM (marca las respuestas correctas):",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Surge como una arquitectura que trata de modelar con éxito relaciones temporales de larga distancia.",
+          "correcta": true
+        },
+        {
+          "texto": "Reemplaza el uso de funciones no lineales utilizando solo transformaciones puramente afines.",
+          "correcta": false
+        },
+        {
+          "texto": "Utiliza tanto sigmoids como tanhs en sus representaciones internas.",
+          "correcta": true
+        },
+        {
+          "texto": "Soluciona el problema de los vanishing gradients.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "7_10",
+      "texto": "Al apilar RNN:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Los inputs se dividen y envían en paralelo a cada una de las capas al mismo tiempo.",
+          "correcta": false
+        },
+        {
+          "texto": "Las salidas de cada time step de la primera RNN son las entradas de la siguiente RNN.",
+          "correcta": true
+        },
+        {
+          "texto": "Se suma aritméticamente el vector de salida de cada RNN al final del procesamiento.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}

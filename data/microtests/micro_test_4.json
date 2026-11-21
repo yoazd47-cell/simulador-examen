@@ -1,0 +1,275 @@
+{
+  "id": "micro_test_4",
+  "titulo": "Micro test 4",
+  "preguntas": [
+    {
+      "id": "4_1",
+      "texto": "Durante el diseño de una red neuronal, personalizar las unidades de activación y la inicialización de parámetros nos va a dar muchas ventajas:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": true
+        },
+        {
+          "texto": "Falso",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_2",
+      "texto": "El algoritmo del descenso del gradiente estocástico no tiene variantes porque funciona perfectamente:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": false
+        },
+        {
+          "texto": "Falso",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_3",
+      "texto": "El overfitting y la regularización son dos problemas de aprendizaje muy típicos en los entrenamientos de las redes neuronales:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": false
+        },
+        {
+          "texto": "Falso",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_4",
+      "texto": "¿Cuál de las siguientes es una razón por la que las unidades ReLU tienen menos tendencia a «morir» cuando se aplican learning rates pequeñas?:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Las unidades ReLU siempre se inicializan con valores positivos evitando cualquier decaimiento.",
+          "correcta": false
+        },
+        {
+          "texto": "La función ReLU ignora por completo el learning rate.",
+          "correcta": false
+        },
+        {
+          "texto": "Un valor de learning rate grande lleva a cambios mayores en los parámetros de la red, lo que puede impedir que la unidad ReLU vuelva a salir de su régimen negativo.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_5",
+      "texto": "¿Cuáles de las siguientes son problemas relacionados con la función de activación sigmoid? (Marca todas las respuestas correctas):",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Las unidades sigmoid saturadas «matan» los gradientes.",
+          "correcta": true
+        },
+        {
+          "texto": "La salida de sigmoid no está centrada en 0.",
+          "correcta": true
+        },
+        {
+          "texto": "No es una función matemáticamente diferenciable en todo su dominio.",
+          "correcta": false
+        },
+        {
+          "texto": "Implica el cálculo de una función exponencial.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_6",
+      "texto": "¿Cuáles de las siguientes son ventajas de usar la función de activación Relu? (Marca todas las respuestas correctas):",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "No satura en el régimen positivo (x>0). La unidad no mata gradientes en este régimen.",
+          "correcta": true
+        },
+        {
+          "texto": "Acelera la convergencia de SGD frente a funciones como sigmoid o tanh.",
+          "correcta": true
+        },
+        {
+          "texto": "Garantiza que la salida siempre esté acotada entre -1 y 1.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_7",
+      "texto": "Marca todas las respuestas correctas acerca de la inicialización de parámetros en una red neuronal:",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "La inicialización de biases no es muy crítica una vez se ha definido una correcta inicialización de weights.",
+          "correcta": true
+        },
+        {
+          "texto": "Siempre se deben inicializar todos los pesos exactamente en 0 para evitar sesgos.",
+          "correcta": false
+        },
+        {
+          "texto": "No es buena idea inicializar todos los pesos con el mismo valor.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_8",
+      "texto": "Si inicializamos todos los pesos w con valores muy grandes en valor absoluto:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "El uso de unidades sigmoid y tanh no sería una buena idea, ya que se encontrarán casi todo el tiempo en régimen de saturación.",
+          "correcta": true
+        },
+        {
+          "texto": "La red neuronal convergerá de inmediato en la primera época.",
+          "correcta": false
+        },
+        {
+          "texto": "Las unidades ReLU se apagarán permanentemente (dying ReLU) en el 100% de los casos.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_9",
+      "texto": "¿Cuáles de las siguientes son técnicas de inicialización de parámetros? (Marca todas las respuestas correctas):",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Inicialización Xavier.",
+          "correcta": true
+        },
+        {
+          "texto": "Inicialización Sigma.",
+          "correcta": false
+        },
+        {
+          "texto": "Inicialización aleatoria.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_10",
+      "texto": "Batch normalization es una técnica que mejora el entrenamiento de redes neuronales:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": true
+        },
+        {
+          "texto": "Falso",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_11",
+      "texto": "Batch normalization se ejecuta después de aplicar la función de activación:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": false
+        },
+        {
+          "texto": "Falso",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_12",
+      "texto": "Batch normalization reduce la dependencia del entrenamiento en la inicialización de parámetros:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": true
+        },
+        {
+          "texto": "Falso",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "4_13",
+      "texto": "Marca todas las respuestas correctas sobre SGD + Momentum:",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Es matemáticamente más lento y pesado que el Descenso de Gradiente original.",
+          "correcta": false
+        },
+        {
+          "texto": "El vector velocidad con Momentum ayuda a escapar de mínimos locales y puntos de silla.",
+          "correcta": true
+        },
+        {
+          "texto": "El vector velocidad contiene información sobre los gradientes de todos los pasos anteriores.",
+          "correcta": true
+        },
+        {
+          "texto": "Rho=0 en el vector de velocidad hace que SGD + Momentum sea idéntico a SGD.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_14",
+      "texto": "¿Cuáles de las siguientes opciones son variantes del algoritmo del descenso del gradiente?:",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "SGD con Momentum.",
+          "correcta": true
+        },
+        {
+          "texto": "SGD Backprop Completo.",
+          "correcta": false
+        },
+        {
+          "texto": "SGD Nesterov.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "4_15",
+      "texto": "¿Qué ocurre con los gradientes en las neuronas desactivadas por dropout?:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Los gradientes se multiplican por la tasa de dropout y se transmiten atenuados.",
+          "correcta": false
+        },
+        {
+          "texto": "Los gradientes transmitidos hacia atrás son 0 en estas neuronas, ya que la función de salida de la neurona es constante y vale 0.",
+          "correcta": true
+        },
+        {
+          "texto": "Los gradientes se invierten, cambiando de signo.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": "micro_test_2",
+  "titulo": "Micro test 2",
+  "preguntas": [
+    {
+      "id": "2_1",
+      "texto": "En una operación suma q = x + y + z, si el gradiente propagado de salida es 5:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "El gradiente se divide entre las tres variables resultando en 1.66.",
+          "correcta": false
+        },
+        {
+          "texto": "El gradiente es 0 debido a que es una suma lineal.",
+          "correcta": false
+        },
+        {
+          "texto": "El gradiente es 5 en todas las variables.",
+          "correcta": true
+        },
+        {
+          "texto": "El gradiente dependerá de los pesos asignados a cada variable.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_2",
+      "texto": "El elemento matemático que nos permite cuantificar el error en las redes neuronales es la función de coste:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": true
+        },
+        {
+          "texto": "Falso",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_3",
+      "texto": "El entrenamiento de una red neuronal es un problema complejo de optimización matemática a partir de la función de coste:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": true
+        },
+        {
+          "texto": "Falso",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_4",
+      "texto": "En el entrenamiento de las redes neuronales intervienen los algoritmos del descenso del gradiente estocástico y el algoritmo de Backpropagation:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": true
+        },
+        {
+          "texto": "Falso",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_5",
+      "texto": "Seleccionar un motivo por el que en SGD utilizamos batches aleatorias hasta agotar todos los training examples del dataset (completar una epoch), en vez de utilizar siempre elementos al azar:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "El uso de elementos puramente al azar incrementa la entropía de forma que la red neuronal converge al instante.",
+          "correcta": false
+        },
+        {
+          "texto": "SGD no utiliza batches, procesa todo el dataset al mismo tiempo.",
+          "correcta": false
+        },
+        {
+          "texto": "Todos los training examples del dataset son importantes y poseen una variabilidad que la red neuronal tiene que saber explicar. Al forzar a la red a entrenar con todos ellos, permitimos que todos estos datos sean tomados en cuenta.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "2_6",
+      "texto": "Para aplicar gradient descent, la función de coste tiene que ser:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Diferenciable.",
+          "correcta": true
+        },
+        {
+          "texto": "Lineal.",
+          "correcta": false
+        },
+        {
+          "texto": "Constante.",
+          "correcta": false
+        },
+        {
+          "texto": "Discreta.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_7",
+      "texto": "Si aplicamos un valor demasiado grande de learning rate (marca todas las respuestas correctas):",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "La red neuronal aprendería y lo haría de manera más rápida.",
+          "correcta": true
+        },
+        {
+          "texto": "La red neuronal requiere automáticamente el uso de más núcleos de procesamiento.",
+          "correcta": false
+        },
+        {
+          "texto": "El modelo se vuelve invulnerable al problema del desvanecimiento del gradiente.",
+          "correcta": false
+        },
+        {
+          "texto": "La red neuronal podría no aprender. La aproximación local de la derivada deja de tener efecto y podríamos overshoot a un punto lejano.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "2_8",
+      "texto": "Si un dataset tiene 10,000 puntos y utilizamos batches de 10 examples para entrenar una red neuronal:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Una epoch o época de entrenamiento consiste en 10 steps.",
+          "correcta": false
+        },
+        {
+          "texto": "Una epoch o época de entrenamiento consiste en 100 steps.",
+          "correcta": false
+        },
+        {
+          "texto": "Una epoch o época de entrenamiento consiste en 1000 steps.",
+          "correcta": true
+        },
+        {
+          "texto": "Una epoch o época de entrenamiento consiste en 10,000 steps.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "2_9",
+      "texto": "Las funciones de coste o loss functions (marca todas las respuestas correctas):",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Definen un valor de error que queremos minimizar.",
+          "correcta": true
+        },
+        {
+          "texto": "Se utilizan exclusivamente en la fase de inferencia del modelo.",
+          "correcta": false
+        },
+        {
+          "texto": "Son fijas y no varían sin importar el tipo de problema a resolver.",
+          "correcta": false
+        },
+        {
+          "texto": "Implican un objetivo distinto a la hora de entrenar una red neuronal y, por tanto, son una parte importante a definir en un problema de machine learning.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "2_10",
+      "texto": "Durante el algoritmo de backpropagation:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Se descartan todos los valores intermedios para ahorrar memoria RAM.",
+          "correcta": false
+        },
+        {
+          "texto": "Guardamos los valores de salida de cada nodo, ya que son necesarios para el cálculo de gradientes durante el backward pass.",
+          "correcta": true
+        },
+        {
+          "texto": "Solo se requiere el error final para actualizar los pesos de la última capa.",
+          "correcta": false
+        },
+        {
+          "texto": "Se invierte la función de activación en todos los nodos de la red.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}

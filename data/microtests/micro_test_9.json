@@ -1,0 +1,157 @@
+{
+  "id": "micro_test_9",
+  "titulo": "Micro test 9",
+  "preguntas": [
+    {
+      "id": "9_1",
+      "texto": "Existe una gran diferencia entre el rendimiento de las GPU y las CPU en el entrenamiento de algoritmos de aprendizaje profundo:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": true
+        },
+        {
+          "texto": "Falso",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "9_2",
+      "texto": "La velocidad de la red no es un factor a tener en cuenta en la efectividad del entrenamiento de redes neuronales con GPU:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": false
+        },
+        {
+          "texto": "Falso",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "9_3",
+      "texto": "El model parallelism y el data parallelism son dos dataset típicos para practicar con el entrenamiento con GPU:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": false
+        },
+        {
+          "texto": "Falso",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "9_4",
+      "texto": "Las GPU (marca todas las respuestas correctas):",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Están optimizadas para realizar ciertas operaciones con números de coma flotante. Estas operaciones pueden ser utilizadas tanto para gráficos como para computación numérica.",
+          "correcta": true
+        },
+        {
+          "texto": "Son componentes diseñados para agilizar exclusivamente el tiempo de ejecución secuencial limitando el flujo de instrucciones.",
+          "correcta": false
+        },
+        {
+          "texto": "Han permitido disminuir el tiempo de entrenamiento de las redes profundas en gran medida.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "9_5",
+      "texto": "¿Cuáles son las diferencias entre una CPU y una GPU? (Marca todas las respuestas correctas):",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Las GPU tienen un número mucho mayor de cores.",
+          "correcta": true
+        },
+        {
+          "texto": "Las CPU superan ampliamente a las GPU en la ejecución masiva de cálculos paralelos densos.",
+          "correcta": false
+        },
+        {
+          "texto": "Las GPU tienen memoria RAM propia, mientras que las CPU utilizan la memoria del sistema.",
+          "correcta": true
+        },
+        {
+          "texto": "Las GPU están optimizadas para grandes anchos de banda de memoria, mientras que las CPU lo están para conseguir latencias bajas al leer de memoria.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "9_6",
+      "texto": "En una multiplicación de matrices con GPU:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "La GPU delega las multiplicaciones a la CPU y se reserva estrictamente para renderizar el resultado final.",
+          "correcta": false
+        },
+        {
+          "texto": "La GPU lee las matrices a multiplicar de memoria y utiliza sus múltiples cores para obtener los valores resultantes de manera paralela, calculando en cada core un producto escalar.",
+          "correcta": true
+        },
+        {
+          "texto": "La GPU calcula cada elemento de la matriz secuencialmente con su procesador principal a muy alta velocidad de reloj.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "9_7",
+      "texto": "La value function V está asociada a una policy π y la trayectoria que definen las acciones de esta policy:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": true
+        },
+        {
+          "texto": "Falso",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "9_8",
+      "texto": "A partir de Q es imposible calcular la optimal policy π:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": false
+        },
+        {
+          "texto": "Falso",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "9_9",
+      "texto": "Q-learning a partir de value iteration converge mejor a mayor número de acciones:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": false
+        },
+        {
+          "texto": "Falso",
+          "correcta": true
+        }
+      ]
+    }
+  ]
+}

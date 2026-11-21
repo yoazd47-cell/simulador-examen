@@ -1,0 +1,165 @@
+{
+  "id": "micro_test_6",
+  "titulo": "Micro test 6",
+  "preguntas": [
+    {
+      "id": "6_1",
+      "texto": "Uno de los elementos clave cuando se trata de estudiar el procesamiento del lenguaje natural, son las representaciones del lenguaje:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": true
+        },
+        {
+          "texto": "Falso",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "6_2",
+      "texto": "Los Word vector son una representación antigua y con muy poca precisión:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": false
+        },
+        {
+          "texto": "Falso",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "6_3",
+      "texto": "La salida del algoritmo Word2vec son los Word vectors:",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        {
+          "texto": "Verdadero",
+          "correcta": true
+        },
+        {
+          "texto": "Falso",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "6_4",
+      "texto": "Una base de datos de palabras del estilo de WordNet (marca todas las respuestas correctas):",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Está construida por humanos.",
+          "correcta": true
+        },
+        {
+          "texto": "Es generada automáticamente por redes neuronales recurrentes.",
+          "correcta": false
+        },
+        {
+          "texto": "Permite obtener sinónimos y antónimos de palabras mediante grupos y reglas definidos por humanos.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "6_5",
+      "texto": "Bag-of-words (marca todas las respuestas correctas):",
+      "tipo": "seleccion_multiple",
+      "opciones": [
+        {
+          "texto": "Proporciona una representación continua y densa del texto, ideal para capturar la semántica profunda.",
+          "correcta": false
+        },
+        {
+          "texto": "Proporciona una representación discreta del texto.",
+          "correcta": true
+        },
+        {
+          "texto": "Asigna 0 a los elementos no presentes del vocabulario en el vector resultante.",
+          "correcta": true
+        }
+      ]
+    },
+    {
+      "id": "6_6",
+      "texto": "Un word vector:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Es una representación discreta one-hot donde solo un valor es 1 y el resto es 0.",
+          "correcta": false
+        },
+        {
+          "texto": "Es una representación distribuida de una palabra.",
+          "correcta": true
+        },
+        {
+          "texto": "Es un grafo de dependencias gramaticales de la oración.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "6_7",
+      "texto": "El tamaño de window o contexto m:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Se aprende de forma autónoma durante el entrenamiento del modelo por retropropagación.",
+          "correcta": false
+        },
+        {
+          "texto": "Es un hiperparámetro del modelo word2vec y se elige antes de entrenar el modelo.",
+          "correcta": true
+        },
+        {
+          "texto": "Determina el número máximo de capas ocultas en la red.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "6_8",
+      "texto": "Word2vec utiliza como datos:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Imágenes y sus subtítulos correspondientes.",
+          "correcta": false
+        },
+        {
+          "texto": "Un conjunto de textos.",
+          "correcta": true
+        },
+        {
+          "texto": "Únicamente diccionarios formalizados estructurados en pares de sinónimos.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "6_9",
+      "texto": "Los word vectors resultantes de word2vec:",
+      "tipo": "opcion_unica",
+      "opciones": [
+        {
+          "texto": "Carecen de contexto y no permiten identificar palabras equivalentes.",
+          "correcta": false
+        },
+        {
+          "texto": "Codifican una representación de las palabras con ciertos valores semánticos, de manera que pueden calcularse palabras similares a otras y detectar relaciones entre ellas.",
+          "correcta": true
+        },
+        {
+          "texto": "Solo representan la frecuencia de aparición de cada palabra ordenadas alfabéticamente.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}
